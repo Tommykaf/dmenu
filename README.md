@@ -22,3 +22,12 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+Added Patches
+-------------
+* fuzzymatch
+* fuzzyhighlight
+* grid
+* center
+* fuzzymatch
+* xresources
