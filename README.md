@@ -31,3 +31,5 @@ Added Patches
 * center
 * fuzzymatch
 * xresources
+
+For emoji support add libxft-bgra
