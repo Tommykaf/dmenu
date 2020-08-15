@@ -18,11 +18,15 @@ static char *colors[SchemeLast][2] = {
 	[SchemeOut] = { "#000000", "#00ffff" },
 };
 /* -l and -g options; controls number of lines and columns in grid if > 0 */
-static unsigned int lines      = 0;
-static unsigned int columns    = 0;
+static unsigned int lines      = 5;
+static unsigned int columns    = 3;
+static unsigned int lineheight = 30;         /* -h option; minimum height of a menu line     */
 
 /*
  * Characters not considered part of a word while deleting words
  * for example: " /?\"&[]"
  */
 static const char worddelimiters[] = " ";
+
+/* Size of the window border */
+static const unsigned int border_width = 3;
