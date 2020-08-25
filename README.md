@@ -36,3 +36,10 @@ Added Patches
 * numbers
 
 For emoji support add libxft-bgra
+
+Font
+----
+FiraCode Nerd Font,
+Twemoji
+
+Both available in the AUR
