@@ -6,6 +6,7 @@ static int fuzzy = 1;                      /* -F  option; if 0, dmenu doesn't us
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static char *fonts[] = {
 	"FiraCode Nerd Font:style=Regular:pixelsize=18:antialias=true:autohint=true",
+	"Cousine:style=Regular:pixelsize=18:antialias=true:autohint=true",
 	"Twemoji:style=Regular:pixelsize=14:antialias=true:autohint=true"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */

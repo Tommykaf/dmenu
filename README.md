@@ -43,3 +43,5 @@ FiraCode Nerd Font,
 Twemoji
 
 Both available in the AUR
+
+Hebrew - Cousine
